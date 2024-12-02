@@ -30,6 +30,7 @@ And this is the workflow for this project
           Financial metrics (e.g. ,total sales, average order value).
 
    and these are pictures from the dashboard
-   ![Alt text for the image](images/dash1.png) ![Alt text for the image](images/dash2.png)
+   ![Alt text for the image](images/dash1.png) ![Alt text for the image](images/dash2.png)  
    ![Alt text for the image](images/dash3.png) ![Alt text for the image](images/dash4.png)
+
    

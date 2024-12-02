@@ -32,7 +32,9 @@ And this is the workflow for this project
    and these are pictures from the dashboard
    <p>
       <img src="images/dash1.png" alt="Dashboard 1" style="display:inline-block; margin-right: 10px;">
-      <img src="images/dash2.png" alt="Dashboard 2" style="display:inline-block;">
+      <img src="images/dash2.png" alt="Dashboard 2" style="display:inline-block; margin-right: 10px;">
+   </p> 
+   <p>
       <img src="images/dash3.png" alt="Dashboard 3" style="display:inline-block; margin-right: 10px;">
       <img src="images/dash4.png" alt="Dashboard 4" style="display:inline-block;">
    </p>

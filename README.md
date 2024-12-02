@@ -3,7 +3,7 @@
 This project demonstrates the implementation of a real-time data processing pipeline for an e-commerce platform. The pipeline leverages Kafka for real-time data ingestion, Apache Spark Streaming for real-time data transformation, and PostgreSQL as the data warehouse to store structured data. The pipeline is designed to process e-commerce transactions, providing timely insights into customer activities, product performance, and sales metrics.
 
 And this is the workflow for this project
-![Alt text for the image](images/Workflow.png)
+![Alt text for the image](images/Wrokflow.png)
 
 1. Data Generation & Ingestion:
     Data Generation: Generates synthetic e-commerce transaction data, simulating real-time activities like product purchases, user interactions, and transaction details.

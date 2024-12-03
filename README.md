@@ -6,7 +6,7 @@ And this is the workflow for this project
 ![Alt text for the image](images/Wrokflow.png)
 
 1. Data Generation & Ingestion:
-    Data Generation: Generates synthetic e-commerce transaction data, simulating real-time activities like product purchases, user interactions, and transaction details.
+    Data Generation: Generates synthetic e-commerce transaction data, simulating real-time activities like product purchases, user interactions, and transaction details.                                             
     Kafka: Utilizes Kafka to ingest the generated data in real-time. Kafka ensures that the data stream is fault-tolerant, scalable, and provides high-throughput, which is crucial for handling large volumes of e-              commerce transactions.
 
 2. Data Processing with Spark Streaming:

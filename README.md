@@ -14,8 +14,8 @@ And this is the workflow for this project
                Transformation: Changing columns data types, creating new columns 
                Constructing data warehouse tables
 3. Data Modeling:                                                                                                                                                                                                        
-        Data Warehouse: A star schema is created for efficient querying and analytics. The data model consists of:                                                                                                    
-              Fact Table: Stores transaction-level data, including product details, quantities, and prices.                                                                                                            
+        Data Warehouse: A star schema is created for efficient querying and analytics. The data model consists of:                                                                                                                                                                                                                
+              Fact Table: Stores transaction-level data, including product details, quantities, and prices.                                                                                                                                                                                                                  
               Dimension Tables: Include tables for products, customers, and time, to provide context for the transactions.
 
    This is the star schema for the data warehouse

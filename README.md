@@ -26,8 +26,8 @@ And this is the workflow for this project
 5. Real-Time Reporting & Visualization:
    
     Power BI: The processed data is sent to Power BI for real-time dashboards. The dashboard is updated every hour, providing insights into:                                                                            
-          Product performance (e.g. , which products are the most popular).
-          Customer behavior (e.g. ,purchase trends over time).
+          Product performance (e.g. , which products are the most popular).                                                                                                                                            
+          Customer behavior (e.g. ,purchase trends over time).                                                                                                                                                        
           Financial metrics (e.g. ,total sales, average order value).
 
    and these are pictures from the dashboard

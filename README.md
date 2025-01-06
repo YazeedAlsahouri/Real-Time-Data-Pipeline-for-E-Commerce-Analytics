@@ -6,6 +6,7 @@ And this is the workflow for this project
 ![Alt text for the image](images/Wrokflow.png)
 
 1. Data Generation & Ingestion:
+   
     Data Generation: Generates synthetic e-commerce transaction data, simulating real-time activities like product purchases, user interactions, and transaction details.                                             
     Kafka: Utilizes Kafka to ingest the generated data in real-time. Kafka ensures that the data stream is fault-tolerant, scalable, and provides high-throughput, which is crucial for handling large volumes of e-              commerce transactions.
 
@@ -23,7 +24,7 @@ And this is the workflow for this project
 
    PostgreSQL: Data is stored in a PostgreSQL database for persistence. The schema is optimized for querying the e-commerce data efficiently and is integrated with the real-time pipeline for constant updates.
 
-5. Real-Time Reporting & Visualization:
+4. Real-Time Reporting & Visualization:
    
     Power BI: The processed data is sent to Power BI for real-time dashboards. The dashboard is updated every hour, providing insights into:                                                                            
           Product performance (e.g. , which products are the most popular).                                                                                                                                            
